@@ -8,7 +8,7 @@ What's Here
 -----------
 
 This sample includes:
-
+Today is monday
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
